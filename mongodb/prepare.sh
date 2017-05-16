@@ -1,3 +1,4 @@
+docker pull mongo:latest
 mkdir data
 mkdir data/db
 mkdir data/configdb
